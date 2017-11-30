@@ -7,5 +7,9 @@
   "dependencies": {
     "change-case": "^3.0.1",
     "inquirer": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resting/ngx-touchfiles.git"
   }
 }
