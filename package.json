@@ -1,0 +1,11 @@
+{
+  "name": "ngx-touchfiles",
+  "version": "0.1.0",
+  "description": "Create initial boilerplates for angular components",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "change-case": "^3.0.1",
+    "inquirer": "^4.0.0"
+  }
+}
