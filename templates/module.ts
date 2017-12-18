@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { $$componentName$$Component } from './$$componentNameParam$$.component';
-import { $$componentName$$Routing } from './$$componentNameParam$$.routing';
+import { $$componentNameCamel$$Routing } from './$$componentNameParam$$.routing';
 
 @NgModule({
-  imports: [$$componentName$$Routing],
+  imports: [$$componentNameCamel$$Routing],
   declarations: [
     $$componentName$$Component,
   ],
